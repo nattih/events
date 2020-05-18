@@ -1,0 +1,16 @@
+body{
+    /* background-color: rgb(242, 247, 237); */
+}
+.ajout{
+    text-align: center;
+}
+.card-body{
+     background-color:rgb(231, 231, 229);
+     margin-top: 13%;
+}
+.enreg{
+    margin-right: 15%;
+}
+.col-form-label , .ajout{
+    font-weight: 700;
+}
